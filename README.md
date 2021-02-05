@@ -27,5 +27,5 @@ sh master.sh
 * Menampilkan extra-tombol yang ada pada termux (Force/Dipaksa)
 * Coming-soon
 
-Tinggal pilih option nya apa
+Tinggal pilih option nya apa <br />
 maaf kalo skrip agak ngegas
