@@ -22,5 +22,9 @@ cd termux-require
 ```
 sh master.sh
 ```
+
+### Fitur yang ada
+* Menampilkan extra-tombol yang ada pada termux (Force/Dipaksa)
+
 Tinggal pilih option nya apa
 maaf kalo skrip agak ngegas
