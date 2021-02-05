@@ -25,6 +25,7 @@ sh master.sh
 
 ### Fitur yang ada
 * Menampilkan extra-tombol yang ada pada termux (Force/Dipaksa)
+* coming-soon
 
 Tinggal pilih option nya apa
 maaf kalo skrip agak ngegas
