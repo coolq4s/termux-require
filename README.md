@@ -27,5 +27,8 @@ sh master.sh
 * Menampilkan extra-tombol yang ada pada termux (Force/Dipaksa)
 * Coming-soon
 
+### Didalam paket repository terdapat
+* PHP * PYTHON * PIP *
+
 Tinggal pilih option nya apa <br />
 maaf kalo skrip agak ngegas
