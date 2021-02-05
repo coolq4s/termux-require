@@ -1,5 +1,5 @@
 ## Tentang Ini
-Ini dibuat supaya memudahkan user untuk menginstall beberapa file dukungan untuk agar dapat berjalan di termux
+Ini dibuat supaya memudahkan user untuk menginstall beberapa file dukungan agar dapat berjalan di termux
 
 ### Pemakaian
 * Masuk `$HOME` direktori termux :
