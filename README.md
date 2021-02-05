@@ -1,4 +1,8 @@
-# termux-require
-to install some requirement for termux
+#Tentang Ini
+Ini dibuat supaya memudahkan user untuk menginstall beberapa file dukungan untuk agar dapat berjalan di termux
 
-First need to install 'git'
+#Pemakaian
+Pertama install `git` di termux dengan cara
+```
+pkg install git -y
+```
